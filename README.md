@@ -14,4 +14,6 @@ Como Executar:
 * iex -S mix
 * ListLength.call([1,2,3,4,5])
 
+Importante:
+
 * Você deve possuir um ambiente apto a executar o Elixir.
