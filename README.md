@@ -1,21 +1,19 @@
-# ListLength
+Desafio 01 - Utilizando Recursão - Ignite Elixir
 
-**TODO: Add description**
+Projeto
+* Primeiro desafio proposto pelo Ignite na trilha de Elixir da Rocketseat, para praticar e fixar o aprendizado de como utilizar a recursividade do Elixir.
 
-## Installation
+Tecnologias Usadas:
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `list_length` to your list of dependencies in `mix.exs`:
+* Elixir
+* Erlang
 
-```elixir
-def deps do
-  [
-    {:list_length, "~> 0.1.0"}
-  ]
-end
-```
+Como Executar:
+* Após clonar o repositório, em um Terminal execute os seguintes comandos:
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/list_length](https://hexdocs.pm/list_length).
+* iex -S mix
+* ListLength.call([1,2,3,4,5])
 
+Importante:
+
+* Você deve possuir um ambiente apto a executar o Elixir.
